@@ -42,8 +42,6 @@ Ludo Legends is a modern, feature-rich, and fully functional 2D Ludo game built 
 
 ## 📸 Screenshots
 
-You can add your own screenshots here by saving them in a `/Screenshots` folder in your repo and referencing them like this:
-
 ```markdown
 ![Gameplay Screenshot](Screenshots/screenshot1.png)
 ![Final Point Reached](Screenshots/screenshot2.png)
