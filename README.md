@@ -86,7 +86,7 @@
 
 ### 🔗 Click below to download:
 
-- 📱 **[Download APK](https://yourlink.com/LudoLegends.apk)**  
+- 📱 **[Download APK](sha256:4992cd17e9ac3b903a1082a001fa319cf483dee8d038c65d0317e506fbf01cf6)**  
 - 💻 **[Download Unity Project (.zip)](https://yourlink.com/LudoLegendsUnity.zip)**
 
 > Note: APK is suitable for Android devices only. Unity package is for opening and modifying the game in the Unity Editor.
