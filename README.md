@@ -83,8 +83,8 @@
 ---
 
 ## 📥 Download & Try It Out
-
 - [Download APK or ZIP](https://github.com/tushar2627/LudoLegends/releases/tag/LudoLegends(v1.0))
+  
 > Note: APK is suitable for Android devices only. Unity package is for opening and modifying the game in the Unity Editor.
 
 ---
