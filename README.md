@@ -84,11 +84,7 @@
 
 ## 📥 Download & Try It Out
 
-### 🔗 Click below to download:
-
-- 📱 **[Download APK](sha256:4992cd17e9ac3b903a1082a001fa319cf483dee8d038c65d0317e506fbf01cf6)**  
-- 💻 **[Download Unity Project (.zip)](https://yourlink.com/LudoLegendsUnity.zip)**
-
+- [Download APK or ZIP]([https://github.com/tushar2627/Super-Mario/releases/tag/v1.0](https://github.com/tushar2627/LudoLegends/releases/tag/LudoLegends(v1.0)))
 > Note: APK is suitable for Android devices only. Unity package is for opening and modifying the game in the Unity Editor.
 
 ---
