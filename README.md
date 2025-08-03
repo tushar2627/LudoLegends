@@ -42,7 +42,7 @@ Ludo Legends is a modern, feature-rich, and fully functional 2D Ludo game built 
 
 ## 📸 Screenshots
 
-##4 Player :
+## 4 Player :
 
 <p align="center">
   <img src="https://github.com/tushar2627/LudoLegends/blob/757a0ab1d7db9fa0af52bb1e5097a366d970284f/4%20Player.jpg" alt="Ludo Legends Screenshot" width="200" height="380" />
