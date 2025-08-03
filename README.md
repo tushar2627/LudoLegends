@@ -53,21 +53,21 @@
 
 ## 📸 Screenshots
 
-### 🔴🟢🟡🔵 4 Player
+### 4 Player 🔴🟢🟡🔵 
 
 <p align="center">
   <img src="https://github.com/tushar2627/LudoLegends/blob/757a0ab1d7db9fa0af52bb1e5097a366d970284f/4%20Player.jpg" alt="Ludo Legends 4 Player" width="200" height="380" />
 </p>
 
 
-### 🔴🟢🔵 3 Player
+### 3 Player 🔴🟢🔵 
 
 <p align="center">
   <img src="https://github.com/tushar2627/LudoLegends/blob/b5c8da2c5b45ec2ee253b9a1e6791c883111dac7/3%20Player.jpg" alt="Ludo Legends 3 Player" width="200" height="380" />
 </p>
 
 
-### 🔴🟡 2 Player
+### 2 Player 🔴🟡 
 
 <p align="center">
   <img src="https://github.com/tushar2627/LudoLegends/blob/b5c8da2c5b45ec2ee253b9a1e6791c883111dac7/2%20Player.jpg" alt="Ludo Legends 2 Player" width="200" height="380" />
