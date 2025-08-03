@@ -123,7 +123,7 @@ If you like this project, consider giving it a ⭐ on GitHub, or share it with f
 
 Got questions, suggestions, or feedback?
 
-📩 **Email:** saxenatushar301@.com  
+📩 **Email:** saxenatushar301@gmail.com  
 🐙 **GitHub:** [tushar2627](https://github.com/tushar2627)
 
 ---
