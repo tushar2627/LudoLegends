@@ -43,5 +43,5 @@ Ludo Legends is a modern, feature-rich, and fully functional 2D Ludo game built 
 ## 📸 Screenshots
 
 ```markdown
-![Gameplay Screenshot](Screenshots/screenshot1.png)
+![Gameplay Screenshot](Picsart_25-08-03_16-33-09-556.jpg)
 ![Final Point Reached](Screenshots/screenshot2.png)
