@@ -47,3 +47,21 @@ Ludo Legends is a modern, feature-rich, and fully functional 2D Ludo game built 
 <p align="center">
   <img src="https://github.com/tushar2627/LudoLegends/blob/757a0ab1d7db9fa0af52bb1e5097a366d970284f/4%20Player.jpg" alt="Ludo Legends Screenshot" width="200" height="380" />
 </p>
+
+## 3 Player :
+
+<p align="center">
+  <img src="https://github.com/tushar2627/LudoLegends/blob/b5c8da2c5b45ec2ee253b9a1e6791c883111dac7/3%20Player.jpg" alt="Ludo Legends Screenshot" width="200" height="380" />
+</p>
+
+## 2 Player :
+
+<p align="center">
+  <img src="https://github.com/tushar2627/LudoLegends/blob/b5c8da2c5b45ec2ee253b9a1e6791c883111dac7/2%20Player.jpg" alt="Ludo Legends Screenshot" width="200" height="380" />
+</p>
+
+## Robo Player :
+
+<p align="center">
+  <img src="https://github.com/tushar2627/LudoLegends/blob/b5c8da2c5b45ec2ee253b9a1e6791c883111dac7/Robo%20Player.jpg" alt="Ludo Legends Screenshot" width="200" height="380" />
+</p>
